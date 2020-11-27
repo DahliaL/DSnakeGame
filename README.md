@@ -10,5 +10,5 @@ This simple Python Snake Game resembles the classic snake game.
 
 
 ### Notes
-I originally made this game to expand my knowledge on what I could do with Python. When I first created the app, the program stopped successfully with no errors. Currently, a traceback (most recent call last) message appears in the console.  
+I originally made this game to expand my knowledge on what I could do with Python. When I first created the app, the program stopped successfully with no errors. Currently, a traceback (most recent call last) message appears in the console upon stopping the program. I plan to look into this and update accordingly.  
 
